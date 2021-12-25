@@ -18,6 +18,7 @@ Open with Unity Hub
 - Single and Multiplayer Mode
 - Generative Platforms (movement and color)
 - Shader Background
+- Bonus Items
 
 
 ## Images
