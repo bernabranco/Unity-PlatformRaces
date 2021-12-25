@@ -1,6 +1,6 @@
 # Platform Races
 
-Platform is a single and multiplayer game made with Unity as an exercise for the course Digital Games of Faculty of Engineering University of Porto.
+Platform Races is a single and multi player game made with Unity as a 2 weeks exercise for the course Digital Games of Faculty of Engineering University of Porto.
 
 ## Installation
 
@@ -19,7 +19,6 @@ Open with Unity Hub
 - Generative Platforms (movement and color)
 - Shader Background
 - Bonus Items
-
 
 ## Images
 <img src="prints/pr_screen3.png" width="100%" height="auto">
