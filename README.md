@@ -22,8 +22,8 @@ Open with Unity Hub
 
 ## Images
 <img src="prints/pr_screen3.png" width="100%" height="auto">
-<img src="prints/pr_screen2.png" width="400px" height="auto">
-<img src="prints/pr_screens4.png" width="400px" height="auto">
+<img src="prints/pr_screen2.png" width="100%" height="auto">
+<img src="prints/pr_screens4.png" width="100%" height="auto">
 
 ## Demo
 
